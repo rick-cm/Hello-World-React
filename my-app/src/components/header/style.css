@@ -9,3 +9,11 @@ header#main-header{
     justify-content: center;
     align-items: center;
 }
+
+header#main-header a{
+    color: #FFF;
+}
+
+header#main-header a:hover{
+    text-decoration: #FFF;
+}
